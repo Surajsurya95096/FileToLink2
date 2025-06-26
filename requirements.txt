@@ -1,4 +1,5 @@
-pyrogram
+pyrogram>=2.0.59
 tgcrypto
 aiohttp
 aiofiles
+gunicorn==20.1.0
