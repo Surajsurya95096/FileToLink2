@@ -7,4 +7,4 @@ BOT_TOKEN = os.getenv('BOT_TOKEN', "")
 # stream vars
 PORT = int(os.getenv('PORT', '5050'))
 BIN_CHANNEL = os.getenv("BIN_CHANNEL", "-1002402091090") #Log Channel
-URL = os.getenv("URL", "https://filetolink2-1.onrender.com") #App URL not MongoDB URL
+URL = os.getenv("URL", "https://filetolink2-0igf.onrender.com") #App URL not MongoDB URL
